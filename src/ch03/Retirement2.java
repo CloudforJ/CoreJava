@@ -1,6 +1,5 @@
-package ch02;
+package ch03;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Retirement2 {
